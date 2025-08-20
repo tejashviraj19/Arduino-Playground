@@ -21,28 +21,6 @@ Not a strict day-to-day challenge, but a **collection of practical codes, mini-p
 
 ---
 
-## 📂 Repository Structure  
-
-📦 arduino_playground
-┣ 📁 Basics
-┃ ┣ 📄 Blink_LED.ino
-┃ ┗ 📄 Button_Input.ino
-┣ 📁 Sensors
-┃ ┣ 📄 DHT11_Temperature.ino
-┃ ┣ 📄 Ultrasonic.ino
-┃ ┗ 📄 LDR_Sensor.ino
-┣ 📁 Displays
-┃ ┣ 📄 LCD_I2C.ino
-┃ ┗ 📄 OLED_Display.ino
-┣ 📁 Communication
-┃ ┣ 📄 UART_Serial.ino
-┃ ┣ 📄 I2C_Scanner.ino
-┃ ┗ 📄 SPI_Example.ino
-┣ 📁 Projects
-┃ ┣ 📄 Digital_Thermometer.ino
-┃ ┣ 📄 Smart_Light.ino
-
-
 ## 🛠️ Tech Stack  
 
 - ⚡ **Board:** Arduino Uno (and sometimes ESP32)  
@@ -85,5 +63,3 @@ This repo is **not just course material**, but my **personal practice archive** 
 ## 📌 Star this repo ⭐  
 
 If you’re also on an **Embedded Systems journey**, give this repo a star and let’s connect 🤝  
-
-┃ ┗ 📄 Mini_Home_Automation.ino
