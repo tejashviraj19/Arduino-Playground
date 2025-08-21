@@ -45,7 +45,7 @@ Not a strict day-to-day challenge, but a **collection of practical codes, mini-p
 |------------------|----------------------|--------|
 | Basics           | Blink LED, Button Input | ✅ |
 | Sensors          | DHT11, Ultrasonic, LDR | ✅ |
-| Displays         | LCD, OLED.Buzzer,Switches | ✅ |
+| Displays         | LCD, OLED,Buzzer,Switches | ✅ |
 | Communication    | UART, I2C, SPI | ⏳ |
 | IoT Integration  | WiFi, MQTT | ⏳ |
 | Mini Projects    | Smart Light, Thermometer | ⏳ |  
